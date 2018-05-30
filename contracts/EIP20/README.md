@@ -1,0 +1,2 @@
+* `solidity_EIP20.sol` is taken from https://github.com/ConsenSys/Tokens/blob/master/contracts/eip20/EIP20.sol
+* `vyper_eip20.v.py` is based on https://github.com/ethereum/vyper/blob/master/examples/tokens/ERC20_solidity_compatible/ERC20.v.py
